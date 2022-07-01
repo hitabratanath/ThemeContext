@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  margin: auto;
+  width: 300px;
+  align-items: center;
+  box-shadow: 5px 5px 20px;
+}
+.btn-style {
+  border-radius: 10px;
+  padding: 10px;
+}
+.dark {
+  color: white;
+  background-color: black;
+}
+.light {
+  color: black;
+  background-color: aquamarine;
+}
